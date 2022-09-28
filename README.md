@@ -1,5 +1,5 @@
 # PlasSim
-Plasmid population dynamics simulator - a population-level model approach considering the amelioration of plasmid costs by chromosomal and plasmid mutations
+Plasmid population dynamics simulator - a population-level model approach for plasmid dynamics considering mortality, growth, segregation, conjugation and mutation for three compartments: plasmid-free cells, plasmid-bearing cells and adapted plasmid-bearing cells. The latter acquired the amelioration of plasmid costs either by chromosomal or plasmid mutations.
 
 The model ensemble comprises two sets of ordinary differential equations (ODE), which are structurally different in conjugation and adaptation:
 
