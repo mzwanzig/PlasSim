@@ -4,4 +4,4 @@ library(shiny) # first time? install.packages("shiny")
 library(deSolve)
 library(RColorBrewer)
 # and now launch the shiny app:
-runApp("PlasSim")
+runApp("PlasSim_v1.0")
